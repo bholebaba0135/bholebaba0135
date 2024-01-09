@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **anmol.op666@gmail.com**
 
-- 📄 Know about my experiences [[https://drive.google.com/file/d/1OMsd5zXFsgh2Q5NQzNtcAN26Td7XSicx/view?usp=sharing](https://drive.google.com/file/d/1OMsd5zXFsgh2Q5NQzNtcAN26Td7XSicx/view?usp=sharing](https://drive.google.com/file/d/1JnyK6FgvMbQY52m-GOzozf43Axx-sBUI/view?usp=sharing))
+- 📄 Know about my [Experiences](https://drive.google.com/file/d/1JnyK6FgvMbQY52m-GOzozf43Axx-sBUI/view?usp=sharing)
 
 - ⚡ Fun fact **I love to play with matrices using C**
 
